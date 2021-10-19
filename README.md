@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on enterprise cloud security applications
+- 🌱 I’m currently learning [Golang](https://golang.org/)
+- 👯 I’m looking to collaborate on Spring, Java, Golang
+- 🤔 I’m looking for help with Golang
+- 💬 Ask me about Spring, Java and cloud
+- 📫 How to reach me: I'm on [Twitter (@sbaitmangalkar)](https://twitter.com/SBaitmangalkar) and there is also [e-mail](mailto:catch.shyambaitmangalkar@gmail.com?subject=[GitHub]%20Hi%20there!)
+- 😄 Pronouns: he/him/they
+- ⚡ Fun fact: :thinking:
 
 <!--
 **sbaitmangalkar/sbaitmangalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

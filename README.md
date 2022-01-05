@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 - 🔭 I’m currently working on enterprise cloud security applications
 - 🌱 I’m currently learning [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on Java, Spring related technologies
@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: :thinking:
 
-## Languages & Technologies:
+### Languages & Technologies:
 These are the programming languages, frameworks and tools that I work with and have experience on using them
 
 #### Programming Languages & Frameworks:
@@ -42,7 +42,7 @@ These are the programming languages, frameworks and tools that I work with and h
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=for-the-badge&logo=Microsoft-Azure)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=for-the-badge&logo=Google-Cloud)
 
-## GitHub Stats:
+### GitHub Stats:
 ![](https://visitor-badge.laobi.icu/badge?page_id=sbaitmangalkar.sbaitmangalkar)
 
 <p>

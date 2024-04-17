@@ -30,7 +30,7 @@ These are the programming languages, frameworks and tools that I work with and h
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=for-the-badge&logo=Apache-Maven)
 
 #### Databases:
-![MySQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=for-the-badge&logo=Elasticsearch)

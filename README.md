@@ -15,7 +15,6 @@ These are the programming languages, frameworks and tools that I work with and h
 
 #### Programming Languages & Frameworks:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=Go)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=Spring-Boot)
@@ -24,13 +23,14 @@ These are the programming languages, frameworks and tools that I work with and h
 
 #### IDEs & Build Tools:
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=for-the-badge&logo=intellij-idea)
+![Go Land](https://img.shields.io/badge/-Go%20Land-05122A?style=for-the-badge&logo=goland)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=for-the-badge&logo=android-studio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=for-the-badge&logo=eclipse-ide)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=for-the-badge&logo=Apache-Maven)
 
 #### Databases:
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=for-the-badge&logo=Elasticsearch)

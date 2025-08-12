@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on enterprise cloud security applications
-- 🌱 I’m currently learning [Golang](https://golang.org/)
+- 🌱 I’m currently learning Machine Learning!
 - 👯 I’m looking to collaborate on Java, Spring related technologies
 - 🤔 I’m looking for help with Golang
 - 💬 Ask me about Spring, Java and cloud

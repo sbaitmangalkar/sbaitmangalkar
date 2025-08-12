@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Golang
 - 💬 Ask me about Spring, Java and cloud
 - 📫 How to reach me: <p><a href="https://www.linkedin.com/in/shyam-baitmangalkar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/SBaitmangalkar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/SBaitmangalkar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="mailto:catch.shyambaitmangalkar@gmail.com?subject=[GitHub]%20Hi%20there!" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: :thinking:

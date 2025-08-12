@@ -33,7 +33,7 @@ These are the programming languages, frameworks and tools that I work with and h
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=for-the-badge&logo=Elasticsearch)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-05122A?style=for-the-badge&logo=Clickhouse)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=for-the-badge&logo=Snowflake)
 
 #### Version Control:

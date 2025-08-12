@@ -49,11 +49,6 @@ These are the programming languages, frameworks and tools that I work with and h
 ### GitHub Stats:
 ![](https://visitor-badge.laobi.icu/badge?page_id=sbaitmangalkar.sbaitmangalkar)
 
-<p>
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sbaitmangalkar&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="SBaitmangalkar's stats" />
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sbaitmangalkar&layout=compact&theme=tokyonight" alt="SBaitmangalkar's top language stats" />
-</p>
-
 <!--
 **sbaitmangalkar/sbaitmangalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

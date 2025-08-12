@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning!
 - 👯 I’m looking to collaborate on Java, Spring related technologies
 - 🤔 I’m looking for help with Golang
-- 💬 Ask me about Spring, Java and cloud
+- 💬 Ask me about Java, Spring, Go and cloud
 - 📫 How to reach me: <p><a href="https://www.linkedin.com/in/shyam-baitmangalkar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/SBaitmangalkar" target="_blank"><img alt="X" src="https://img.shields.io/badge/-x.com-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="mailto:catch.shyambaitmangalkar@gmail.com?subject=[GitHub]%20Hi%20there!" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
